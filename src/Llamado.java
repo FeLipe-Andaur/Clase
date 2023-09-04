@@ -13,8 +13,8 @@ import java.util.Scanner;
 public class Llamado {
     
     public static void main(String[] args) {
-        Trabajador trabajador1 = new Trabajador("John Wick", 12654789, 'k');
-        Trabajador trabajador2 = new Trabajador("Neo Matrix", 10528596, '3');
+        Trabajador trabajador1 = new Trabajador("Maria Ronaldo", 12654789, 'k');
+        Trabajador trabajador2 = new Trabajador("Pedro Montes", 10528596, '3');
         Tarjeta tarjeta1 = new Tarjeta(4125478, 1265, 10000,"20 de marzo del ", trabajador1);
         Tarjeta tarjeta2 = new Tarjeta(528987, 1052, 50000, "11 de septiembre 2020", trabajador2);
         
