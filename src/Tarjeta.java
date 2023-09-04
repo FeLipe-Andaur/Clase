@@ -95,7 +95,8 @@ public class Tarjeta {
         int claveEsperadaInt = Integer.parseInt(claveEsperada);
         return claveIngresada == claveEsperadaInt;
     }
-   
+    
+    
     
    
 }
